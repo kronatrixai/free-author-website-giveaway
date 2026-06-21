@@ -24,3 +24,9 @@ This site intentionally avoids direct file uploads so there is no Formspree file
 
 IMPORTANT FORM FLOW UPDATE:
 Authors complete the simple on-site form, then their email opens addressed to kronatrix.ai@gmail.com. They are instructed to attach their book cover image and full book interior PDF / manuscript. They may also attach author images, book character images, logos, or any other images they want considered for the site. The page states that KRONATRIX does not share or publish the PDF and that selected sites usually take up to 48 hours, after which KRONATRIX emails back the completed page details and any next steps.
+
+SOCIAL SHARE PREVIEW FIX
+- This package includes share-card-v2.jpg, a professional 1200 x 630 social preview image.
+- Upload share-card-v2.jpg and the updated index.html to the repo root.
+- After GitHub Pages updates, share previews may still show the old image until platform caches refresh.
+- If a platform keeps showing the old preview, paste the live URL into that platform's sharing/debug preview tool and request a re-scrape/refresh.
