@@ -1,0 +1,10 @@
+# KRONATRIX Author Website Giveaway
+
+This page is a minimal author lead capture page by KRONATRIX.
+
+Purpose: help selected authors apply for a free author website by listening to a short audio message, entering their author details, adding social profile URLs, optional Amazon URL, and optional named website/book URLs, then opening a pre-filled email to send their book cover image and full book interior PDF to kronatrix.ai@gmail.com.
+
+Privacy note: KRONATRIX does not share or publish the submitted PDF. It is used privately to understand the book, themes, audience, and what is needed for the author website.
+
+Main site: https://kronatrix.co.uk/
+Authors site: https://authors.kronatrix.co.uk/

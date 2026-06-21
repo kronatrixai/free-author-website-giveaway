@@ -1,0 +1,13 @@
+ASSET GUIDANCE
+
+Visible assets used on the site:
+- logo.webp
+- author-ai-chat-voiceover.mp3
+
+Hidden/supporting assets:
+- favicon-32.png
+- favicon-64.png
+- apple-touch-icon.png
+- og-image.jpg
+
+Keep these files in the root folder beside index.html.

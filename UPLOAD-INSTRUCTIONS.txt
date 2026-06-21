@@ -1,0 +1,22 @@
+UPLOAD INSTRUCTIONS
+
+1. Create a GitHub repository.
+2. Upload all files in this folder directly into the root of the repository.
+3. Enable GitHub Pages from the main branch/root.
+4. Set the custom domain to:
+   freeauthorwebsite.kronatrix.co.uk
+5. Add/update the CNAME record in DNS for freeauthorwebsite.kronatrix.co.uk to point to your GitHub Pages target.
+6. Open the live page and test the CTA.
+
+TESTING THE FORM
+
+- Enter author name, email, and book title.
+- Add social links using the dropdown social profile section.
+- Optionally add an Amazon book product URL.
+- Optionally add other named URLs such as website, Goodreads, Waterstones, publisher, newsletter, or Bookshop.
+- Press "Open Email & Attach Book Files".
+- Your email app should open with a pre-filled email addressed to kronatrix.ai@gmail.com.
+- Attach the book cover image and full book interior PDF.
+- Press send inside the email app.
+
+This site intentionally avoids direct file uploads so there is no Formspree file upload error.

@@ -1,0 +1,25 @@
+# KRONATRIX Author Website Giveaway - Full Context
+
+KRONATRIX provides author website and AI-readable author promotion services.
+
+This site is intentionally simple for authors:
+- Logo
+- Audio explanation
+- Lead capture form
+
+The form asks for:
+- Author name to use on the website
+- Contact email
+- Book title
+- Book genre
+- Social profiles using dropdown platform selection and one URL per row
+- Optional Amazon book product page URL
+- Optional other URLs with a title to show and a URL
+
+The CTA opens a pre-filled email addressed to kronatrix.ai@gmail.com. The author is instructed to attach:
+- Book cover image
+- Full PDF of the book interior
+
+The site clearly states that KRONATRIX does not share or publish the PDF. The PDF is used privately to understand the book, themes, audience, and what is needed for the author website.
+
+Book buying links are optional. If the author does not have links yet, they can still apply. The main required items are the author name to use on the site, book cover image, and full book interior PDF.
