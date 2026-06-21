@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Claim Your Free Author Website | KRONATRIX</title>
-  <meta name="description" content="A simple KRONATRIX author lead page: listen to the audio, enter your author details, add social and website links, then open email to attach your book cover and full book interior PDF.">
+  <meta name="description" content="A simple KRONATRIX author lead page: listen to the audio, enter your author details, add social and website links, then open email to attach your book cover, full book interior PDF, and any images you want considered for the site.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://freeauthorwebsite.kronatrix.co.uk/">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
   <link rel="icon" type="image/png" sizes="64x64" href="favicon-64.png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <meta property="og:title" content="Claim Your Free Author Website">
-  <meta property="og:description" content="Listen, add your author links, then open email to attach your book cover and full book interior PDF.">
+  <meta property="og:description" content="Listen, add your author details, then open email to attach your book cover, full book interior PDF, and any images you want used on the site.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://freeauthorwebsite.kronatrix.co.uk/">
   <meta property="og:image" content="https://freeauthorwebsite.kronatrix.co.uk/og-image.jpg">
@@ -284,7 +284,7 @@
 
       <form id="leadForm">
         <h2>Send your author details</h2>
-        <p class="intro">Fill this in, then your email will open. Attach your <strong>book cover</strong> and the <strong>full PDF of your book interior</strong> before pressing send.</p>
+        <p class="intro">Fill this in, then your email will open. Before sending, attach your <strong>book cover</strong> and the <strong>full PDF of your book interior</strong>. You can also attach any images you want considered for the site, such as an author photo, book character images, or logos.</p>
 
         <div class="grid">
           <div class="field">
@@ -378,17 +378,25 @@
         </div>
 
         <div class="notice">
-          <strong>Main files needed:</strong> after clicking the button, your email will open with a reminder at the top to attach your <strong>book cover image</strong> and the <strong>full PDF of your book interior</strong>. KRONATRIX does not share or publish your PDF. It is used privately to understand the book, themes, audience, and what is needed for the author website.
+          <strong>Important before you send:</strong> your email will open after you press the button. Please attach your <strong>book cover image</strong> and the <strong>full PDF of your book interior / manuscript</strong>. These are the main files needed to build the author website properly.
+          <br><br>
+          You can also attach any extra images you want considered for the site, such as your <strong>author photo</strong>, <strong>book character images</strong>, <strong>logos</strong>, or other book-related visuals.
+          <br><br>
+          <strong>Privacy:</strong> KRONATRIX does not share or publish your PDF. It is used privately only to understand your book, themes, reader audience, and what is needed for the website.
+        </div>
+
+        <div class="notice">
+          <strong>Usual completion time:</strong> selected author websites usually take up to <strong>48 hours</strong> to complete. Once completed, KRONATRIX will email you back with the finished page details and anything you need moving forward.
         </div>
 
         <div class="checks">
           <label class="check">
             <input type="checkbox" id="attachCheck" required>
-            <span>I understand that after clicking the button I need to attach my book cover image and full book interior PDF in the email.</span>
+            <span>I understand that after clicking the button I need to attach my book cover image and full book interior PDF / manuscript in the email.</span>
           </label>
           <label class="check">
             <input type="checkbox" id="privacyCheck" required>
-            <span>I understand KRONATRIX will not share or publish my PDF. It is only used privately to improve what is needed for the author website.</span>
+            <span>I understand I can also attach extra images I want considered for the site, such as an author photo, character images, logos, or book visuals. KRONATRIX will not share or publish my PDF.</span>
           </label>
         </div>
 
@@ -543,11 +551,20 @@
       const otherLinks = collectOtherLinks();
 
       return `IMPORTANT — BEFORE PRESSING SEND, PLEASE ATTACH:
-1. Your book cover image
-2. The full PDF of your book interior / manuscript
+1. Your book cover image — important
+2. The full PDF of your book interior / manuscript — important
+
+You can also attach any extra images you want considered for the site, such as:
+- Author photo
+- Book character images
+- Logos / brand images
+- Any other book-related visuals
 
 Privacy note:
 KRONATRIX does not share or publish your PDF. It is used privately only to understand your book, themes, reader audience, and what is needed for your author website.
+
+Usual completion time:
+Selected author websites usually take up to 48 hours to complete. Once completed, KRONATRIX will email you back with the finished page details and anything you need moving forward.
 
 ---
 
@@ -575,7 +592,7 @@ Other URLs for the site:
 ${otherLinks.length ? otherLinks.join('\n') : 'No other links provided'}
 
 Final reminder before sending:
-Please make sure the book cover image and full book interior PDF are attached to this email.
+Please make sure the book cover image and full book interior PDF / manuscript are attached to this email. You can also attach author images, book character images, logos, or any other images you want considered for the site.
 `;
     }
 
@@ -611,7 +628,7 @@ Please make sure the book cover image and full book interior PDF are attached to
     "@type":"WebPage",
     "name":"Claim Your Free Author Website",
     "url":"https://freeauthorwebsite.kronatrix.co.uk/",
-    "description":"A minimal KRONATRIX author lead capture page with logo, audio, and an email-based form for authors to send their author name, social links, Amazon URL, other website links, book cover, and full book interior PDF privately.",
+    "description":"A minimal KRONATRIX author lead capture page with logo, audio, and an email-based form for authors to send their author name, social links, Amazon URL, other website links, book cover, full book interior PDF, and optional site images privately.",
     "publisher":{
       "@type":"Organization",
       "name":"KRONATRIX",
@@ -623,7 +640,7 @@ Please make sure the book cover image and full book interior PDF are attached to
       "name":"Free Author Website Giveaway",
       "provider":{"@type":"Organization","name":"KRONATRIX","url":"https://kronatrix.co.uk/"},
       "areaServed":"Worldwide",
-      "description":"Selected authors can apply for a free author promotion website by sending author details, social links, optional book and website links, book cover, and full book interior PDF for private review."
+      "description":"Selected authors can apply for a free author promotion website by sending author details, social links, optional book and website links, book cover, full book interior PDF, and any extra images they want considered for the site. Usual completion time is up to 48 hours."
     }
   }
   </script>
